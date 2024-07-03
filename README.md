@@ -10,12 +10,12 @@ Parse to JSON: The application uses the Google Gemini LLM model to parse the res
 
 Display JSON Output: The parsed JSON data is displayed on the web interface, showing sections such as Personal Information, Education, Work Experience, Skills, and Certifications.
 
-##Requirements
+*Requirements*
 Python 3.x
 Streamlit
 Google Gemini LLM model (API or hosted service)
 
-##Usage
+*Usage*
 Provide Resume File Path
 
 Enter the path to the resume file (e.g., /path/to/your/resume.pdf) into the designated input field on the web interface.
