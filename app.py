@@ -7,7 +7,6 @@ from prompt_template import prompt_template
 from prompt_template_2 import prompt_template_2
 import json
 
-# path = "C:\\Users\\samee\\Documents\\Desktop\\Jacko's\\Resume parser\\Jacob Joy Resume .pdf"
 
 #Converting json string data to a json file
 def json_string_to_json(json_string, file_name='output.json'):
