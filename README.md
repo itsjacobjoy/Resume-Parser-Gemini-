@@ -1,7 +1,7 @@
 # Resume-Parser-Gemini
 
 # Overview
-This Streamlit web application allows users to parse resume content into JSON format using the Google Gemini Large Language Model (LLM). Users can input the path to a resume file (PDF), which is then processed through the Gemini LLM model to generate structured JSON data representing different sections of the resume.
+This Streamlit web application allows users to parse resume content into JSON format using the Google Gemini Large Language Model (LLM). Users can input the path to a resume file (PDF), which is then processed through the Gemini LLM model to generate structured JSON data representing different sections of the resume. A sample output has been provided in the repository.
 
 # Features
 - Input Resume File Path: Users can provide the file path to the resume file (located on their local system or accessible via URL).
